@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_assignment_1/progrindicator.dart';
 import 'package:riverpod_assignment_1/riverpodprovider.dart';
 
 void main() {
